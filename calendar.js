@@ -66,4 +66,8 @@ function getCalendarDate(year, month) {
   
   // ページ読み込み時にカレンダーを表示
   window.onload = displayCalendar;
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 3763e70 (initial commit)
