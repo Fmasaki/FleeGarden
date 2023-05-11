@@ -1,0 +1,75 @@
+body {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #4a4cb4;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	color: #FFF;
+	padding: 20px;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav ul li:last-child {
+	margin-right: 0;
+}
+
+nav ul li a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+section {
+	padding: 40px;
+}
+
+section h2 {
+	margin-top: 0;
+}
+
+.project, .experience {
+	margin-bottom: 40px;
+}
+
+.project h3, .experience h3 {
+	margin-top: 0;
+}
+
+.project p, .experience p {
+	margin-bottom: 20px;
+}
+
+.project a {
+	display: inline-block;
+	background-color
+    : #0a45b4;
+    color: #FFF;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+    
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: #EEE;
+    padding: 20px;
+    text-align: center;
+}
